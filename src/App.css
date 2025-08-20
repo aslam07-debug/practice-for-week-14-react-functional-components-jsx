@@ -1,0 +1,15 @@
+.background {
+  background: linear-gradient(
+    90deg,
+    hsla(70, 100%, 70%, 1) 0%,
+    hsla(206, 65%, 75%, 1) 100%
+  );
+
+  background-repeat: no-repeat;
+  backgroud-size: cover;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
